@@ -1,0 +1,42 @@
+body{
+    background-color: cornflowerblue;
+}
+.alimentos{
+    background-color: chocolate;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.lista-alimentos{
+   list-style-position:inside;
+}
+
+.lista-alimentos li,.valor-total{
+    font-size: 24px;
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.imagem{
+    background-color: chocolate;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.paragrafo{
+    background-color: chocolate;
+    padding: 20px;
+}
+
+.paragrafo-padrao{
+    background-color: #F5F5F5;
+    padding: 20px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.paragrafo-destacado{
+    background-color: #F0CCE2;
+    padding: 20px;
+    font-size: 20px;
+}
